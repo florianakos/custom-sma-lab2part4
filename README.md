@@ -1,9 +1,13 @@
-# Project Title
+# Simple Messaging Architecture - with Java
 
-One Paragraph of project description goes here
+Slight modification of the SMA implementation from course D7001D at LTU. 
+Overview of SMA below:
+
+![alt text](https://github.com/florianakos/custom-sma-lab2part4/raw/master/overview.png "SMA")
 
 
-### Running
+
+### Compile & Execute
 
 Export the java class files into an executable JAR file (how-to [link](https://www.pegaxchange.com/2018/01/11/export-a-java-project-in-eclipse-neon/)).
 
@@ -22,7 +26,7 @@ Example on the below picture:
 
 Traffic exchanged:
 
-![alt text](https://github.com/florianakos/custom-sma-lab2part4/raw/master/SMA-JAva.png "Usage")
+![alt text](https://github.com/florianakos/custom-sma-lab2part4/raw/master/SMA-JAva.png "Capture")
 
 
 ## Acknowledgments
